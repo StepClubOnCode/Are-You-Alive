@@ -18,6 +18,7 @@ NYIT offers workshops on how to take full advantage of this industry standard to
 * * Append the files you want to "stage" by clicking their respective `+` button. 
 * write a message that best summarizes what you did
 * Click the big blue "Commit" button
+* After that, the button will change to "Sync", make sure you press it, and hit `ok` to the dialog.
 
 If you have any problems, you can always ask me for help.
 

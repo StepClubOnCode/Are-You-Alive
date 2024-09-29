@@ -5,16 +5,24 @@
 
 ## Workflow:
 ### Submitting:
-  In every upcoming task, there will be a file (also called a "script") called `Submit.sh`, think of this like a `.exe` <br>
-You don't have to worry about what's inside of this script. Just know that you need to run this file.
+  We will be using a program called `Visual Studio Code`, it is the industry preference.<br>
+It comes with built in tools that will make our lives a bit easier. We will be using a GUI version of a tool called `git` <br>
+NYIT offers workshops on how to take full advantage of this industry standard tool.
+  
 ##### How to submit:
-* Press Ctrl + Tilde (`) to bring up the terminal. It should be the bottom panel that's opened by default.<br> PS: The terminal will have a blinking cursor.
-* Finally, Type `./Submit.sh`
+![image](https://github.com/user-attachments/assets/42965272-4b37-468c-b027-965475283d45)
+![image](https://github.com/user-attachments/assets/b32c21bc-a4d4-4435-8c86-c5783188861f)
 
-You can submit multiple times, everytime you submit, it will add your current code to the version history.
+* Click on the branch: This is called the `source control` tab
+* A list of the files you've changed will appear
+* * Append the files you want to "stage" by clicking their respective `+` button. 
+* write a message that best summarizes what you did
+* Click the big blue "Commit" button
+
+If you have any problems, you can always ask me for help.
 
 ### Learn more:
   I try to detail how everything works to the best that I can do.
-For example, Inside of `Submit.sh`, I've written comments. <br>
+No file is off limits---specially for those going into cyber security.
 Hint: Comments start with `#` <br>
 👀 👀 👀
